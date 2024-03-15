@@ -1,1 +1,1 @@
-# Cryptography
+# Mathematical Foundations of Cryptography
