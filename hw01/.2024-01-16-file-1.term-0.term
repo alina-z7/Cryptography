@@ -1,0 +1,11 @@
+
+reset;history -d $(history 1)
+[?2004h]0;~/331-sp24/homework/hw01[01;34m~/331-sp24/homework/hw01[00m$ 
+[?2004l[?2004h]0;~/331-sp24/homework/hw01[01;34m~/331-sp24/homework/hw01[00m$ reset;history -d $(history 1)
+[?2004lc]104[!p[?3;4l[4l>[?69l[?2004h]0;~/331-sp24/homework/hw01[01;34m~/331-sp24/homework/hw01[00m$ which python3
+[?2004l/usr/bin/python3
+[?2004h]0;~/331-sp24/homework/hw01[01;34m~/331-sp24/homework/hw01[00m$ which java
+[?2004l/usr/bin/java
+[?2004h]0;~/331-sp24/homework/hw01[01;34m~/331-sp24/homework/hw01[00m$ wjhic[K[K[K[Khich c++
+[?2004l/usr/bin/c++
+[?2004h]0;~/331-sp24/homework/hw01[01;34m~/331-sp24/homework/hw01[00m$ 
