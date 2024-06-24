@@ -12,7 +12,7 @@ Welcome to my COMP 331 repository! As a student who has completed the course, th
 
 ## Description
 
-This repository encompasses assignments, projects, and code related to COMP 363, offering insights into algorithm design, complexity analysis, and problem-solving skills.
+This repository encompasses assignments, projects, and code related to COMP 331, offering insights into algorithm design, complexity analysis, and problem-solving skills.
 
 ## Learning Outcomes
 
